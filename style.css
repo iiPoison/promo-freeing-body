@@ -1,0 +1,149 @@
+#promo_freeing-body {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#promo_freeing-body .content {
+  width: 1024px;
+  background-color: #FFB939;
+
+}
+
+#promo_freeing-body .content h2 {
+  text-align: center;
+}
+
+#promo_freeing-body .content h1 {
+  text-align:  center;
+}
+
+#promo_freeing-body .content .about-coach {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#promo_freeing-body .content .about-coach .about-coach__h3 {
+  font-size: 38px;
+  margin: 0;
+  padding: 0;
+}
+
+#promo_freeing-body .content .about-coach .about-coach__ul{
+  font-size: 15px;
+  margin: 0;
+  padding: 0;
+  margin-top: 5px;
+  /*color: 	hsl(0,0%,30%);*/
+}
+
+#promo_freeing-body .content .about-coach .about-coach__ul li{
+  list-style-type: none;
+  display: inline;
+}
+
+#promo_freeing-body .content .about-coach .about-coach__ul li:first-child {
+  border-right: 1px solid black;
+  padding-right: 6px;
+}
+#promo_freeing-body .content .about-coach .about-coach__ul li:nth-child(2) {
+  margin: 0 6px;
+}
+
+#promo_freeing-body .content .about-coach .about-coach__ul li:last-child {
+  border-left: 1px solid black;
+  padding-left: 6px;
+}
+
+#promo_freeing-body .content .about-coach .about-coach__p {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#promo_freeing-body .content .programms {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 15px;
+}
+
+#promo_freeing-body .content .programms .programms__intro{
+  width: 60%;
+  padding: 15px;
+  line-height: 1.6;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+#promo_freeing-body .content .programms .programms__specification{
+  width: 60%;
+  padding: 15px;
+}
+
+#promo_freeing-body .content .programms .programms__specification h4 {
+  margin: 0;
+}
+
+#promo_freeing-body .content .programms .programms__specification ul {
+  padding: 20;
+}
+
+#promo_freeing-body .content .programms .programms__specification ul li{
+  list-style: disc;
+}
+
+#promo_freeing-body .content .programms .programms__specification p {
+  line-height: 1.6;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+#promo_freeing-body .content .proposal {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #66A1C7;
+/*  color: #D9F2E6;*/
+}
+
+#promo_freeing-body .content .proposal .proposal__address {
+  width: 50%;
+  line-height: 1.6;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+#promo_freeing-body .content .proposal .proposal__address .emphasis {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#promo_freeing-body .content .proposal .proposal__address .emphasis i {
+  margin-right: 10px;
+
+
+}
+
+#promo_freeing-body .content .proposal .proposal__price {
+  width: 70%;
+}
+
+#promo_freeing-body .content .proposal .proposal__price li{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+#promo_freeing-body .content .content__banner {
+  width: 100%;
+  height: auto;
+}
