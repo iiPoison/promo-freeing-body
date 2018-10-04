@@ -7,7 +7,7 @@
 
 #promo_freeing-body .content {
   width: 1024px;
-  background-color: #FFB939;
+  /*background-color: #FFB939;*/
 
 }
 
@@ -108,7 +108,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #66A1C7;
+  /*background-color: #66A1C7;*/
 /*  color: #D9F2E6;*/
 }
 
